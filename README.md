@@ -259,4 +259,6 @@ npm run dev
 ## ⭐ 수상 내역
 
     🏆 삼성 청년 SW 아카데미(SSAFY) 공통 프로젝트 우수 상 (8팀 중 2등)
+    ![image](https://user-images.githubusercontent.com/77381154/234026202-f4ef1e63-446e-4dc4-acfb-724fd677e987.png)
+
 
